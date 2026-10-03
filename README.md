@@ -1,10 +1,10 @@
 # Hi, I'm Lance 👋
 
-### Software Developer · Full-Stack · Homelab & Infrastructure
+### Software Developer · Full-Stack · Homelab Enthusiast
 
 I enjoy building **useful software and the systems that run it**.
 
-I'm a developer who likes working across the stack, from modern web apps and APIs to **self-hosted services, homelab infrastructure, automation, networking, and Linux**. I enjoy taking an idea from code on my laptop all the way to something running reliably in the real world.
+I'm a developer who likes working across the stack, from modern web apps and APIs to **self-hosted services, homelab infrastructure, automation, networking, and Linux**. 
 
 I'm especially interested in projects where **software and infrastructure meet**.
 
@@ -40,7 +40,7 @@ I'm especially interested in projects where **software and infrastructure meet**
 
 One of my favorite ways to learn is through **hands-on experience and building things myself**.
 
-My homelab gives me a place to experiment with self-hosting web apps, Linux, containers, networking, automation, monitoring, and infrastructure. I enjoy learning how new services work and finding ways to use them in my day-to-day life.
+My homelab gives me a place to experiment with self-hosting web apps, Linux, containers, networking, automation, monitoring, and infrastructure. I enjoy learning how new services work and finding new ways to use them in my day-to-day life.
 
 ---
 
@@ -48,7 +48,7 @@ My homelab gives me a place to experiment with self-hosting web apps, Linux, con
 
 ### [Sweepsfolio](https://sweepsfolio.com/)
 
-This is a web app I worked on with my friend Kalen, we built this in order to solve a problem in the sweepsstakes sidehustle niche 
+This is a web app I worked on with my friend Kalen, we built this in order to solve a cluttered spreadsheet problem in the sweepstakes sidehustle niche.
 
 **Tech:** TypeScript · Next.js · React · ShadCN · Convex
 
