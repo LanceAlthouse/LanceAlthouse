@@ -4,9 +4,11 @@
 
 I enjoy building **useful software and the systems that run it**.
 
-I'm a developer who likes working across the stack, from modern web apps and APIs to **self-hosted services, homelab infrastructure, automation, networking, and Linux**. 
+Day to day I work in TypeScript, React and C#, from the UI down to the API. The other half of my life is my homelab, where I do the same thing at a lower level: containers, Nix, networking, and enough automation that the lab basically runs itself.
 
 I'm especially interested in projects where **software and infrastructure meet**.
+
+> **Currently:** building local first AI agents in my homelab
 
 ---
 
@@ -48,9 +50,9 @@ My homelab gives me a place to experiment with self-hosting web apps, Linux, con
 
 ### [Sweepsfolio](https://sweepsfolio.com/)
 
-This is a web app I worked on with my friend Kalen, we built this in order to solve a cluttered spreadsheet problem in the sweepstakes sidehustle niche.
+Sweepstakes side-hustlers were [tracking entries across scattered spreadsheets and apps]. Sweepsfolio gives them one place to [run their whole operation].
 
-**Tech:** TypeScript · Next.js · React · ShadCN · Convex
+Built with my friend Kalen · **TypeScript · Next.js · React · ShadCN · Convex**
 
 [![View Site](https://img.shields.io/badge/View%20Site-Visit%20Site-2ea44f?style=for-the-badge)](https://sweepsfolio.com/)
 
@@ -58,7 +60,7 @@ This is a web app I worked on with my friend Kalen, we built this in order to so
 
 ## 📫 Let's Connect
 
-I'm always interested in interesting engineering problems, new technologies, and opportunities to build useful things.
+Always open to interesting problems, good collaborators, and building useful things.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LanceAlthouse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lance-althouse)
