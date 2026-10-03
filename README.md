@@ -8,7 +8,7 @@ Day to day I work in TypeScript, React and C#, from the UI down to the API. The 
 
 I'm especially interested in projects where **software and infrastructure meet**.
 
-> **Currently:** building local first AI agents in my homelab
+> **Currently:** building local-first AI agents in my homelab
 
 ---
 
