@@ -1,6 +1,6 @@
 # Hi, I'm Lance 👋
 
-### Software Developer · Full-Stack · Homelab Enthusiast
+### Software Developer · Full-Stack · Homelab & Infrastructure Enthusiast
 
 I enjoy building **useful software and the systems that run it**.
 
